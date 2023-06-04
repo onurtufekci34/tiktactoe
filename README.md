@@ -4,7 +4,7 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. I
 
 ## How to Play
 
-1. Open the [Tic-Tac-Toe Game](https://onurtufekci34.github.io/tiktactoe/) in your web browser.
+1. Open the [Tic-Tac-Toe Game](https://kielertiktactoe.netlify.app/) in your web browser.
 2. The game board consists of a 3x3 grid.
 3. Player 1 starts by clicking on an empty cell on the grid to place their symbol (X).
 4. Player 2 then takes their turn by clicking on an empty cell to place their symbol (O).
